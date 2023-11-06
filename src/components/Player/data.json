@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "1",
+        "content": "1",
+        "isPaused": 0,
+        "buttonState": true,
+        "createdAt": "2023-11-06T04:04:06.097Z",
+        "updatedAt": "2023-11-06T04:04:06.841Z",
+        "publishedAt": "2023-11-06T04:04:06.839Z"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 1 }
+  }
+}

@@ -1,4 +1,3 @@
-import React from "react";
 import { Button } from "antd-mobile";
 import { useState, useLayoutEffect, useEffect } from 'react'
 
